@@ -29,7 +29,7 @@ Projeto desenvolvido no avanço do curso DevQuest utilizando o desafio Huddle do
 
 ## Desafios e Ideias
 
-Foi interessante testar meus conhecimentos solidos e desenvolver a página sem acesso a recursos como a internet, IA e resumos de estudo. A idéia foi me propor um desafio simples e complexo ao mesmo tempo para testar meu nível de conhecimento verdadeiro. O grid não seria necessário, seria possível simplificar com o flexbox mas nessa ideia e prática percebi a ferramenta valiosa que é o grid e o flexbox em conjunto. 
+Foi interessante testar meus conhecimentos solidos e desenvolver a página sem acesso a recursos como a internet, IA e resumos de estudo. A idéia foi me propor um desafio simples e complexo ao mesmo tempo para testar meu nível de conhecimento verdadeiro. O grid não seria necessário, seria possível simplificar com o flexbox mas decidi utilizar o grid e nessa ideia e prática aplicada percebi a ferramenta valiosa que é o grid e o flexbox em conjunto de uma forma mais profunda. 
 
 A responsividade foi o maior desafio. Sem dúvidas foi mais complexo deixar a página responsiva.
 
